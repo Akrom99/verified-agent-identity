@@ -6,7 +6,7 @@ on:
       agent_name:
         description: 'akrom99'
         required: true
-        default: 'uangdroid'
+        default: 'akrom99'
       agent_description:
         description: 'akrom99'
         required: true
