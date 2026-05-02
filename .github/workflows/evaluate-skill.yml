@@ -2,9 +2,9 @@ name: Evaluate Skill
 
 on:
   push:
-    branches: [main, develop]
+    branches: [akrombagas]
   pull_request:
-    branches: [main, develop]
+    branches: [akrombagas]
   workflow_dispatch:
 
 jobs:
